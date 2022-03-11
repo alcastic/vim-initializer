@@ -5,5 +5,5 @@ This repository simply allows me to configure my personal VIM settings on Unix-l
 ## Installation
 
 ```
-$ curl -s "https://raw.githubusercontent.com/alcasticx2c/vim-initializer/master/init.sh" | bash
+$ curl -s "https://raw.githubusercontent.com/alcastic/vim-initializer/master/init.sh" | bash
 ```
